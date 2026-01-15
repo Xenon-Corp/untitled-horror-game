@@ -49,7 +49,7 @@ Ipakita sa mundo na ang **Filipino horror** ay may sariling identidad—nakakata
 ---
 
 ## 🔗 Contact Links
-- 📘 Facebook: [facebook.com/PagPagGame](https://facebook.com/PagPagGame)  
+- 📘 Facebook: [facebook.com/PagPagGame](https://www.facebook.com/profile.php?id=61582958736572)  
 - 🐙 GitHub: [github.com/PagPagGame](https://github.com/PagPagGame)  
 - ☕ Support Us: [buymeacoffee.com/PagPagGame](https://buymeacoffee.com/PagPagGame)  
 - 📧 Email: pagpag.game@gmail.com
