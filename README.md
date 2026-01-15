@@ -1,38 +1,26 @@
-# PagPag 🎮
-**Isang Filipino Psychological Horror Game**
+<h1 align="center">PagPag</h1>
 
-## 📖 Overview
-*PagPag* ay isang horror game na nakaugat sa pamahiin ng Pilipino.  
-Sa tradisyon, ang *pagpag* ay paniniwalang hindi dapat umuwi agad mula sa lamay upang maiwasan ang pagsunod ng mga espiritu.  
-Sa larong ito, binalewala ng pangunahing tauhan ang pamahiin—at nagsimula ang kababalaghan.
 
-## 🌑 Story
-Matapos dumalo sa isang lamay sa baryo, nagsimulang sumunod ang mga kakaibang nilalang:  
-mga bulong sa dilim, mga aninong gumagalaw, at mga yapak na tila palapit nang palapit.  
-Ang manlalaro ay kailangang tuklasin ang misteryo sa likod ng sumpa at makahanap ng paraan upang makaligtas.
 
-## 🎮 Demo Features
-- **Tagpuan**: Madilim na kalsada sa baryo, may kumukutitap na ilaw ng poste, huni ng kuliglig, at malamig na hangin.  
-- **Gameplay**:
-  - Pag-explore ng kapaligiran (bahay ng lamay, kalsada, sari-sari store).  
-  - Pagharap sa kababalaghan (multo, bulong, biglang lamig).  
-  - Maliit na puzzle gaya ng paghahanap ng kandila, asin, o rosaryo.  
-- **Layunin**: Mabuhay hanggang umaga at matuklasan ang unang pahiwatig ng sumpa—isang lumang diary na naiwan sa lamay.  
-- **Demo Ending**: Pagdating sa bahay, akala ng manlalaro ay ligtas na. Ngunit sa pagbukas ng pinto, naroon na ang anino ng namatay—naghihintay. *Biglang itim ang screen.*
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername/repository?style=social">
+  <img src="https://img.shields.io/github/forks/yourusername/repository?style=social">
+  <img src="https://img.shields.io/github/license/yourusername/repository">
+</p>
 
-## 🕯️ Atmosphere
-- Madilim, puno ng pamahiin, at nakakatindig-balahibo.  
-- Mga elementong Pilipino: balete tree, altar na may kandila, jeepney na dumadaan sa gabi.
 
-## 📌 Tagline
-*"PagPag: Huwag Umuwi Kaagad."*
+
+## Description
+🌟 A short and **engaging** description of your project.  
+💡 Clearly explain its purpose and why it's useful!  
 
 ---
 
-## 🙌 Support Us / About Us
-Kami ay isang maliit na grupo ng **Filipino indie developers** na naglalayong magdala ng lokal na pamahiin at alamat sa mundo ng horror gaming.  
-Naniniwala kami na ang mga kwento ng ating kultura—mula sa lamay, pamahiin, at mga kababalaghan—ay may kakaibang takot at ganda na dapat maranasan ng mas maraming manlalaro.
-
+## About Us 
+📘 Facebook: [facebook.com/PagPagGame](https://facebook.com/PagPagGame) 
+- 🐙 GitHub: [github.com/PagPagGame](https://github.com/PagPagGame) 
+- ☕ Support Us: [buymeacoffee.com/PagPagGame](https://buymeacoffee.com/PagPagGame) 
+- 📧 Email: pagpag.game@gmail.com
 ### 🎯 Misyon
 - Lumikha ng mga larong nakaugat sa kulturang Pilipino na nagbibigay takot at aral.  
 - Ipakilala ang mga pamahiin at alamat ng Pilipinas sa global gaming community.  
