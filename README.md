@@ -30,7 +30,8 @@ Ang manlalaro ay kailangang tuklasin ang misteryo sa likod ng sumpa at makahanap
 
 ## About Us 
 -  Facebook: [Xenon Corp](https://www.facebook.com/profile.php?id=61582958736572) 
--  GitHub: [github.com/PagPagGame](https://github.com/PagPagGame) 
+-  GitHub: [github.com/PagPagGame](https://github.com/PagPagGame)
+-  Itch.io .[Xenon].().
 -  Support Us: [buymeacoffee.com/PagPagGame](https://buymeacoffee.com/PagPagGame)
 
 
