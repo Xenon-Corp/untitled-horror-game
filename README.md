@@ -17,9 +17,9 @@
 ---
 
 ## About Us 
-📘 Facebook: [facebook.com/PagPagGame](https://facebook.com/PagPagGame) 
-- 🐙 GitHub: [github.com/PagPagGame](https://github.com/PagPagGame) 
-- ☕ Support Us: [buymeacoffee.com/PagPagGame](https://buymeacoffee.com/PagPagGame)
+-  Facebook: [Xenon Corp](https://www.facebook.com/profile.php?id=61582958736572) 
+-  GitHub: [github.com/PagPagGame](https://github.com/PagPagGame) 
+-  Support Us: [buymeacoffee.com/PagPagGame](https://buymeacoffee.com/PagPagGame)
 
 ## About us
 
