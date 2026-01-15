@@ -1,17 +1,18 @@
 <h1 align="center">PagPag</h1>
 
-![image alt](https://github.com/Xenon-Corp/untitled-horror-game/blob/109dea11db8cb60f5f1ebaa9264fe90d1d7912fa/Copilot_20260116_005512.png)
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/yourusername/repository?style=social">
   <img src="https://img.shields.io/github/forks/yourusername/repository?style=social">
   <img src="https://img.shields.io/github/license/yourusername/repository">
-</p>
+</p>!
 
 ##  Overview
 *PagPag* ay isang horror game na nakaugat sa pamahiin ng Pilipino.  
 Sa tradisyon, ang *pagpag* ay paniniwalang hindi dapat umuwi agad mula sa lamay upang maiwasan ang pagsunod ng mga espiritu.  
 Sa larong ito, binalewala ng pangunahing tauhan ang pamahiin—at nagsimula ang kababalaghan.
+
+[image alt](https://github.com/Xenon-Corp/untitled-horror-game/blob/109dea11db8cb60f5f1ebaa9264fe90d1d7912fa/Copilot_20260116_005512.png)
 
 ##  Story
 Matapos dumalo sa isang lamay sa baryo, nagsimulang sumunod ang mga kakaibang nilalang:  
