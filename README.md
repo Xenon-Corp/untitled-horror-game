@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/repository?style=social">
+  <img src="https://img.shields.io/github/stars/Xenon-Corp/repository?style=social">
   <img src="https://img.shields.io/github/forks/yourusername/repository?style=social">
   <img src="https://img.shields.io/github/license/yourusername/repository">
 </p>!
