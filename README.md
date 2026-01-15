@@ -26,3 +26,6 @@ Ang manlalaro ay kailangang tuklasin ang misteryo sa likod ng sumpa at makahanap
 
 ##  Tagline
 *"PagPag: Huwag Umuwi Kaagad."*
+
+## About us
+
